@@ -1,3 +1,10 @@
+# Author: Thales veloso/thal01veloso@gmail.com
+#https://www.youtube.com/user/tthhal01/
+#Descrição
+#Esse programa é um verificador de palindromo
+#O usuário digita uma frase e a frase é escrita de 
+#trás para frente
+#=========================================================
 o = "1"
 b = []
 s = ''
